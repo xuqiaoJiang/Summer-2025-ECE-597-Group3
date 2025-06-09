@@ -11,7 +11,7 @@ Capstone project – a Machine Learning (ML) model to detect abnormal emails
 | Role | Responsibilities | Member |
 |------|------------------|--------|
 | **Literature & Threat Analyst** | Research phishing detection strategies; summarize key features (e.g., suspicious links, wording patterns); propose ML directions | Hao Ding, Gabriel (✅ Completed last term) |
-| **Data Preprocessing Specialist** | Analyze email dataset structure; clean raw data (HTML stripping, tokenization, header parsing) |  |
+| **Data Preprocessing Specialist** | Analyze email dataset structure; clean raw data (HTML stripping, tokenization, header parsing) | Xuqiao |
 | **Feature & Embedding Developer** | Create structured features (e.g., link counts, sender domain); apply bag-of-words, TF-IDF, and embedding models like Word2Vec/BERT |  |
 | **Model Trainer & Evaluator** | Train classification models (e.g., NB, LR); validate results using AUC, confusion matrix, accuracy |  |
 | **Visualizer & Performance Analyst** | Plot ROC curves, confusion matrices, and feature insights; interpret model strengths and failure patterns |  |
