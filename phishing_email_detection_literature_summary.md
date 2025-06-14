@@ -3,7 +3,7 @@
 
 ## Authors & Responsibilities
 
-This literature review was completed by **Gabriel Naranjo** and **Hao Ding** as part of the responsibilities for the role of *Literature & Threat Analyst* in the ECE591/ECE597 Capstone Project 2025.
+This literature review was completed by **Hao Ding** and **Gabriel Naranjo** as part of the responsibilities for the role of *Literature & Threat Analyst* in the ECE591/ECE597 Capstone Project 2025.
 
 **Role Description:**
 - Research phishing detection strategies  
@@ -46,7 +46,7 @@ URL-based features focus on elements like the length of the URL—longer URLs ar
 Structural features involve the presence of suspicious HTML elements, embedded scripts, or images within the body of the email (7). Additional structural data includes email header metadata (e.g., sender domain) and overall message length (3).
 
 ### ⚠️ Behavioral Features
-Behavioral features include the presence of requests for personal information (1), the types of attachments included in the message (e.g., `.exe`, `.zip`), and the email’s sending time—particularly if it falls outside of normal business hours ( 7).
+Behavioral features include the presence of requests for personal information (1), the types of attachments included in the message (e.g., `.exe`, `.zip`), and the email’s sending time—particularly if it falls outside of normal business hours (7).
 
 These features are used as input for training machine learning models to classify emails as either phishing or legitimate.
 
@@ -61,7 +61,7 @@ These features are used as input for training machine learning models to classif
 4. Al-Subaiey, A., et al. (2024). *Web-Based AI Platform for Threat Detection*. Comp. & Elec. Eng., 120, 109625. https://doi.org/10.1016/j.compeleceng.2024.109625  
 5. Netskope. (2024). *Phishing Threat Analysis Report*.  
 6. Proofpoint. (2024). *Email Threat Report*.  
-7. Altwaijry, N., et al. (2024). *Advancing Phishing Email Detection*. Sensors, 24, 2077. https://doi.org/10.3390/s24072077  
+7. Altwaijry, N., et al. (2024). *Advancing Phishing Email Detection*. Sensors, 24, 2077. https://doi.org/10.3390/s24072077 
 8. Anwar, M.Z., et al. (2019). *A Survey of Phishing Email Filtering Techniques*. Comp. Communications, 145, 75–97.  
 9. Khonji, T., et al. (2015). *Phishing Detection: A Literature Survey*. Telecommunication Systems, 60(3), 507–526.  
 10. Burita, L., et al. (2021). *Analysis of Phishing Emails*. AIMS Electronics, 5(1), 1–14.  
