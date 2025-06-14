@@ -3,7 +3,7 @@
 
 ## Authors & Responsibilities
 
-This literature review was completed by **Gabriel Naranjo** ✅ and **Hao Ding** as part of the responsibilities for the role of *Literature & Threat Analyst* in the ECE591/ECE597 Capstone Project 2025.
+This literature review was completed by **Gabriel Naranjo** and **Hao Ding** as part of the responsibilities for the role of *Literature & Threat Analyst* in the ECE591/ECE597 Capstone Project 2025.
 
 **Role Description:**
 - Research phishing detection strategies  
